@@ -7,3 +7,10 @@
     grid-auto-flow: row;
 
 }
+.cycle {
+    colour: Red;
+    width: 30px;
+    size: 20px;
+   border-left-color: red;
+    grid-auto-flow: row;
+}
