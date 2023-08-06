@@ -1,0 +1,9 @@
+.looop {
+    color: red;
+    width: 20px;
+    size: 20px;
+    border-left-color: bisque;
+    flex-direction: Left;
+    grid-auto-flow: row;
+
+}
